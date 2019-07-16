@@ -1,3 +1,4 @@
+```html
 <!DOCTYPE html> <!--解释文档类型-->
 <html>
 <head>
@@ -99,4 +100,5 @@
 </body>
 
 </html>
+```
 
